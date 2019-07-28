@@ -4,7 +4,8 @@ public class SubSet {
 	
 	public static void main(String[] args) 
     { 
-        char set[] = {'a', 'b', 'c'}; 
+        char set[] = {'a', 'b', 'c','d'}; 
+//        System.out.println(1<<2);
         printSubsets(set); 
     }
 	
